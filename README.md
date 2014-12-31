@@ -6,7 +6,7 @@ The main goal of this repository is to provide ready to use Vagrant boxes. You c
 They are based on Ubuntu/amd64 server iso file and created using [this](https://github.com/kraksoft/vagrant-box/blob/master/build-ubuntu.sh) script.
 
 You can check:
-- what parameters are used for unattended installation [here](https://github.com/kraksoft/vagrant-box/blob/master/preseed.cfg)
+- what parameters are used for unattended installation [here](https://github.com/kraksoft/vagrant-box/blob/master/ubuntu/preseed.cfg)
 - what parameters are used to create VM Box [here](https://github.com/kraksoft/vagrant-box/blob/master/build.sh#L196)
 - what is done after all [here](https://github.com/kraksoft/vagrant-box/blob/master/late_command.sh)
 
