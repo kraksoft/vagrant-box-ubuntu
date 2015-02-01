@@ -1,6 +1,7 @@
 Ubuntu Vagrant Boxes
 ====================
 
+This repository provide ready to use Vagrant boxes. You can download it from ["releases"](https://github.com/kraksoft/vagrant-box-ubuntu/releases) tab.
 This repository provide ready to use Vagrant boxes. You can download it from "releases" tab.
 
 They are based on Ubuntu/amd64 server iso file and created using [this](https://github.com/kraksoft/vagrant-box/blob/master/build-ubuntu.sh) script.
